@@ -9,5 +9,6 @@
  * @author alvar
  */
 public class Animal {
-    
+    public void getname(){
+    }
 }
