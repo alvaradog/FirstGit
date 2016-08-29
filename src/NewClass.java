@@ -10,6 +10,9 @@
  */
 public class NewClass {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello Java Class");
     }
+    public void method2(){
+        
+        }
 }
